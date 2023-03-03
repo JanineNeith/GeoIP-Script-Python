@@ -1,6 +1,6 @@
 # GeoIP-Script-Python
 
-This is a script that identifies country, city, country code and continent by IP address with Python
+This is a script that identifies country, city, country code and continent by IP address with Python.
 
 In this script, we first import the pygeoip module and open the GeoLiteCity.dat file using the pygeoip.GeoIP() constructor. We then prompt the user to enter the target IP address using the input() function.
 
